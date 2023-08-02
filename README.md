@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
+  [<img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">](https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=222222)
 </p>
 
 # Hi, I'm Vivek Chauhan 👋
@@ -58,12 +58,3 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
-
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekagent47&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
