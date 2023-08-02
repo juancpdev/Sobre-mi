@@ -1,6 +1,4 @@
-<p>
-  [<img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">](https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=222222)
-</p>
+![portada jpdev github](https://github.com/juancpdev/Sobre-mi/assets/102560793/4fbfa028-0207-41c9-9b2e-6c20e36446c7)
 
 # Hi, I'm Vivek Chauhan 👋
 
