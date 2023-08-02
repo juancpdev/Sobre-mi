@@ -15,8 +15,8 @@
 
 ```js
 const jpdev = {
-  code: [HTML, CSS, SASS, TailwindCSS, JavaScript, PHP],
-  tools: [React, Node, Git],
+  code: [HTML, CSS, JavaScript, PHP],
+  tools: [SASS, TailwindCSS, React, Node, Git],
 };
 ```
 
