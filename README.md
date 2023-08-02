@@ -5,10 +5,9 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/juancpdev/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://www.jpdev.site/)
 
-- 🔭 Actualmente estoy trabajando en... No funciona
-- 🌱 Actualmente estoy aprendiendo... React y TailwindCSS
-- 👯 Estoy buscando colaborar en ... Cualquiera de los proyectos
-- 💬 Pregúntame sobre... Lo que sea.... :risas:
+- 🌱 Actualmente estoy aprendiendo React y TailwindCSS
+- 👯 Estoy buscando nuevas oportunidades para colaborar en proyectos.
+- 💬 Si tienes alguna duda, consúltame :laughing:
 <br/>
 
 ### Languages and Tools:
