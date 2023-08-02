@@ -3,9 +3,7 @@
 # Hola, Soy Juan Cruz Pineda 👋
 
 ### Sobre mí:
-Desarrollador Web Front-End con sólidos conocimientos en HTML, CSS y JavaScript, entre otras tecnologías y frameworks. Conocimiento en diseño UX/UI y capacidad para crear páginas web responsive.
-A lo largo de los últimos años, he mejorado y perfeccionado mis competencias como desarrollador web. Me he mantenido en constante aprendizaje y tuve la oportunidad de aplicar mis conocimientos en una amplia variedad de proyectos.
-<br/>
+👨‍💻 Desarrollador Web Front-End con sólidos conocimientos en HTML, CSS y JavaScript, entre otras tecnologías y frameworks. 🛠️ Conocimiento en diseño UX/UI 🎨 y capacidad para crear páginas web responsive 💻📱. A lo largo de los últimos años, he mejorado y perfeccionado mis competencias como desarrollador web 🚀. Me he mantenido en constante aprendizaje 📚 y tuve la oportunidad de aplicar mis conocimientos en una amplia variedad de proyectos 🌐."
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/juancpdev/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://www.jpdev.site/)
