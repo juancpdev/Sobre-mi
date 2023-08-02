@@ -2,21 +2,26 @@
 
 # Hola, Soy Juan Cruz Pineda 👋
 
+### Sobre mí:
+Desarrollador Web Front-End con sólidos conocimientos en HTML, CSS y JavaScript, entre otras tecnologías y frameworks. Conocimiento en diseño UX/UI y capacidad para crear páginas web responsive.
+A lo largo de los últimos años, he mejorado y perfeccionado mis competencias como desarrollador web. Me he mantenido en constante aprendizaje y tuve la oportunidad de aplicar mis conocimientos en una amplia variedad de proyectos.
+<br/>
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/juancpdev/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://www.jpdev.site/)
 
 - 🌱 Actualmente estoy aprendiendo React y TailwindCSS
 - 👯 Estoy buscando nuevas oportunidades para colaborar en proyectos.
-- 💬 Si tienes alguna duda, consúltame :laughing:
+- 💬 Si tienes alguna duda, consúltame :)
 <br/>
 
-### Languages and Tools:
-<div display="flex">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-<br/>
+```js
+const jpdev = {
+  code: [HTML, CSS, SASS, TailwindCSS, JavaScript, PHP],
+  tools: [React, Node, Git],
+};
+```
+
+
+
 
